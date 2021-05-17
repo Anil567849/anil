@@ -18,6 +18,10 @@
     .footer_col_md_8>p{
         font-size: 1.2rem;
     }
+    #navbarNav>ul{
+        display: flex;
+        align-items: flex-end;
+    }
 }
 @media only screen and (max-width: 965px) {
     #main_heading{
@@ -79,6 +83,7 @@
     }
     #main_heading{
         margin: 0px;
+        text-align: center;
     }
     .section_heading{
         font-size: 2.5rem;
@@ -89,6 +94,9 @@
     .main_image_col_6>.main_image_col_6_1{
         height: 14rem;
         margin-left: 7rem;
+    }
+    .main_button_div{
+        text-align: center;
     }
 }
 
