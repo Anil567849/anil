@@ -1,0 +1,140 @@
+
+
+
+
+@media only screen and (max-width: 1185px) {
+  .main_image_col_6_2{
+      width: 40%;
+      height: 30%;
+  }
+}
+@media only screen and (max-width: 1155px) {
+    #main_heading{
+        font-size: 2rem;
+    }
+}
+
+@media only screen and (max-width: 1000px) {
+    .footer_col_md_8>p{
+        font-size: 1.2rem;
+    }
+}
+@media only screen and (max-width: 965px) {
+    #main_heading{
+        font-size: 2rem;
+    }
+}
+  @media only screen and (max-width: 950px) {
+    #main_heading{
+        font-size: 1.7rem;
+    }
+  .main_image_col_6_2{
+      width: 40%;
+      max-height: 70%;
+  }
+  }
+
+@media only screen and (max-width: 830px) {
+    .coding_card_body{
+        height: 550px;
+        width: 100%;
+    }
+
+}
+  @media only screen and (max-width: 810px) {
+    #main_heading{
+        font-size: 1.5rem;
+    }
+    .button{
+        margin-left: 0px;
+    }
+    .main_container{
+        height: 25rem;
+    }
+    .main_image_col_6>.main_image_col_6_1{
+        height: 25rem;
+    }
+}
+
+  @media only screen and (max-width: 768px) {
+    .main_image_div_row>.col-md-6{
+        /* background-color: red; */
+        position: static;
+    }
+    .button{
+        font-size: 120%;
+    }
+    .footer{
+        /* height: 40vh; */
+    }
+    .footer_col_md_4{
+        display: flex;
+    }
+}
+
+
+  @media only screen and (max-width: 576px) {
+    .main_image_col_6_2{
+        position: static;
+    }
+    #main_heading{
+        margin: 0px;
+    }
+    .section_heading{
+        font-size: 2.5rem;
+    }
+    .main_container{
+        height: 30rem;
+    }
+    .main_image_col_6>.main_image_col_6_1{
+        height: 14rem;
+        margin-left: 7rem;
+    }
+}
+
+  @media only screen and (max-width: 475px) {
+/* //icon */
+.footer_col_md_4>.row>.col-md-2>img{
+    height: 20px;
+    width: 20px;
+}
+.footer_col_md_4>.row>.col-md-8>a{
+    font-size: 50%;
+}
+
+}
+
+  @media only screen and (max-width: 395px) {
+.main_image_col_6>.main_image_col_6_1{
+    left: -40%;
+}
+.footer_col_md_8>p{
+    font-size: 1rem;
+}
+
+}
+
+  @media only screen and (max-width: 330px) {
+/* //icon  */
+.footer_col_md_4>.row>.col-md-8>a{
+    font-size: 40%;
+}
+
+}
+  @media only screen and (max-width: 290px) {
+/* //icon  */
+.main_image_col_6>.main_image_col_6_1{
+    left: -50%;
+}
+.footer_col_md_8>p{
+    font-size: 0.8rem;
+}
+  }
+@media only screen and (max-width: 275px) {
+    /* //icon  */
+    .footer_col_md_4>.row>.col-md-8>a{
+        font-size: 30%;
+    }
+    
+
+}
